@@ -5,6 +5,7 @@ local plugins = {
       ensure_installed = {
         "pyright",
         "typescript-language-server",
+        "emmet-language-server",
       },
     },
   },
